@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oriol_000\\Documents\\IT_Academy\\LINQ.NET\\Ex5_PHASE1\\Ex5_PHASE1\\Ex5_PHASE1.csproj",
-      "projectName": "Ex5_PHASE1",
-      "projectPath": "C:\\Users\\oriol_000\\Documents\\IT_Academy\\LINQ.NET\\Ex5_PHASE1\\Ex5_PHASE1\\Ex5_PHASE1.csproj",
+      "projectUniqueName": "C:\\Users\\oriol_000\\source\\repos\\Ex5_PHASE2\\Ex5_PHASE2\\Ex5_PHASE2.csproj",
+      "projectName": "Ex5_PHASE2",
+      "projectPath": "C:\\Users\\oriol_000\\source\\repos\\Ex5_PHASE2\\Ex5_PHASE2\\Ex5_PHASE2.csproj",
       "packagesPath": "C:\\Users\\oriol_000\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oriol_000\\Documents\\IT_Academy\\LINQ.NET\\Ex5_PHASE1\\Ex5_PHASE1\\obj\\",
+      "outputPath": "C:\\Users\\oriol_000\\source\\repos\\Ex5_PHASE2\\Ex5_PHASE2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\oriol_000\\AppData\\Roaming\\NuGet\\NuGet.Config",

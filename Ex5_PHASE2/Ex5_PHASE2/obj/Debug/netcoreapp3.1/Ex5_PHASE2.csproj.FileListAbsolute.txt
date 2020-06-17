@@ -1,0 +1,13 @@
+C:\Users\oriol_000\source\repos\Ex5_PHASE2\Ex5_PHASE2\bin\Debug\netcoreapp3.1\Ex5_PHASE2.exe
+C:\Users\oriol_000\source\repos\Ex5_PHASE2\Ex5_PHASE2\bin\Debug\netcoreapp3.1\Ex5_PHASE2.deps.json
+C:\Users\oriol_000\source\repos\Ex5_PHASE2\Ex5_PHASE2\bin\Debug\netcoreapp3.1\Ex5_PHASE2.runtimeconfig.json
+C:\Users\oriol_000\source\repos\Ex5_PHASE2\Ex5_PHASE2\bin\Debug\netcoreapp3.1\Ex5_PHASE2.runtimeconfig.dev.json
+C:\Users\oriol_000\source\repos\Ex5_PHASE2\Ex5_PHASE2\bin\Debug\netcoreapp3.1\Ex5_PHASE2.dll
+C:\Users\oriol_000\source\repos\Ex5_PHASE2\Ex5_PHASE2\bin\Debug\netcoreapp3.1\Ex5_PHASE2.pdb
+C:\Users\oriol_000\source\repos\Ex5_PHASE2\Ex5_PHASE2\obj\Debug\netcoreapp3.1\Ex5_PHASE2.csprojAssemblyReference.cache
+C:\Users\oriol_000\source\repos\Ex5_PHASE2\Ex5_PHASE2\obj\Debug\netcoreapp3.1\Ex5_PHASE2.AssemblyInfoInputs.cache
+C:\Users\oriol_000\source\repos\Ex5_PHASE2\Ex5_PHASE2\obj\Debug\netcoreapp3.1\Ex5_PHASE2.AssemblyInfo.cs
+C:\Users\oriol_000\source\repos\Ex5_PHASE2\Ex5_PHASE2\obj\Debug\netcoreapp3.1\Ex5_PHASE2.csproj.CoreCompileInputs.cache
+C:\Users\oriol_000\source\repos\Ex5_PHASE2\Ex5_PHASE2\obj\Debug\netcoreapp3.1\Ex5_PHASE2.dll
+C:\Users\oriol_000\source\repos\Ex5_PHASE2\Ex5_PHASE2\obj\Debug\netcoreapp3.1\Ex5_PHASE2.pdb
+C:\Users\oriol_000\source\repos\Ex5_PHASE2\Ex5_PHASE2\obj\Debug\netcoreapp3.1\Ex5_PHASE2.genruntimeconfig.cache
